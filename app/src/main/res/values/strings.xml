@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SARDHIKAJANARP_1202150067_STUDYCASE4</string>
+    <string-array name="namaMhs">
+        <item>Joko</item>
+        <item>Pahing</item>
+        <item>Kliwon</item>
+        <item>Wage</item>
+        <item>Pon</item>
+        <item>Legi</item>
+        <item>Supono</item>
+        <item>Karyo</item>
+        <item>Pardi</item>
+        <item>Parno</item>
+        <item>Katmi</item>
+        <item>Mardi</item>
+        <item>Gatot</item>
+
+    </string-array>
+</resources>
